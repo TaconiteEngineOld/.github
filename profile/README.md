@@ -9,40 +9,22 @@ Tea engine is a game engine being wrote in nelua with a custom system that shoul
 
 # Quick navigation
 
-| [Releases](https://github.com/TeaSpillStudios/TeaEngine#releases) |
-[Usage](https://github.com/TeaSpillStudios/TeaEngine#usage) |
-[Building from source](https://github.com/TeaSpillStudios/TeaEngine#building-from-source) |
-[FAQ](https://github.com/TeaSpillStudios/TeaEngine#faq) |
-[TODO](https://github.com/TeaSpillStudios/TeaEngine#todo) |
-[Goals](https://github.com/TeaSpillStudios/TeaEngine#goals) |
-[Community](https://github.com/TeaSpillStudios/TeaEngine#community) |
+| [Releases](https://github.com/TeaEngine/TeaEngine#releases) |
+[Usage](https://github.com/TeaEngine/TeaEngine#usage) |
+[Building from source](https://github.com/TeaEngine/TeaEngine#building-from-source) |
+[FAQ](https://github.com/TeaEngine/TeaEngine#faq) |
+[TODO](https://github.com/TeaEngine/TeaEngine#todo) |
+[Goals](https://github.com/TeaEngine/TeaEngine#goals) |
+[Community](https://github.com/TeaEngine/TeaEngine#community) |
 
 # Releases
 
-All releases will be posted in the [Github releases tab](https://github.com/TeaSpillStudios/TeaEngine/releases)
-
-# Usage
-
-##### Linux
-
-Please download the linux build from the [Github releases tab](https://github.com/TeaSpillStudios/TeaEngine/releases) and extract it, then run the ELF Executable file labelled `TeaEngine`.
-
-##### Windows
-
-Please download the windows build from the [Github releases tab](https://github.com/TeaSpillStudios/TeaEngine/releases) and extract it, then run the exe
-
-# Building from source
-
-Download the source code with `git clone --recurse-submodules https://github.com/TeaSpillStudios/TeaEngine/`
-
-Enter the new folder called `TeaEngine` and run `make libs`. Then `make libs-install`. Then enter the `src` folder in the `TeaEngine` directory. Run `make`
-
-Please download the source code from the [Github releases tab](https://github.com/TeaSpillStudios/TeaEngine/releases) and the extract it, on linux please run `make` in the folder. On windows, please run the `.bat` file
+All releases will be posted in the [Github releases tab](https://github.com/TeaEngine/TeaEngine/releases)
 
 # FAQ
 
 ### What platforms are going to be supported at the moment?
-Windows and Linux are the platforms that are going to be developed for at the moment.
+Windows and Linux are the platforms that are going to be developed for the moment.
 
 ### Is it actively developed?
 Yes, it is being devoloped whenever possible, a commit may be released every day at times, or maybe even more at times.
@@ -50,9 +32,9 @@ Yes, it is being devoloped whenever possible, a commit may be released every day
 ### How long will it take to be a good, usable engine?
 This project will probably be good and usable after a couple of months, please be patient.
 
-### TODO
+### STATUS
 
-###### Widgets
+###### UI
 - [x] UI Window
 - [x] Button
 - [ ] Text box
